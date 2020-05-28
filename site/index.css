@@ -1,0 +1,54 @@
+a.SU {
+  color: #E6E6DE ;
+  text-decoration: none ;
+}
+
+table.RPT {
+  background-color: #498582 ;
+}
+
+font.titulob {
+	font-size: 300% ;
+	color: #E6E6DE ;
+}
+
+div.FP {
+width: 65% ;
+height: 1300px ;
+background-color: #FCFCFC ;
+font-family:Times;
+color:black;
+font-size:20;
+}
+
+font.titulop {
+	font-size: 300% ;
+	color: #000000 ;
+}
+
+p.TP {
+	font-size: 150% ;
+	color: #000000 ;
+}
+
+tr.FRL {
+	font-size: 150% ;
+}
+
+a.SL {
+  color: #939190 ;
+  text-decoration: none ;
+}
+
+table.RPC {
+  background-color: #B6B2B0 ;
+}
+
+div.SD {
+	width: 95% ;
+	height: 870px ;
+	background-color: #FCFCFC ;
+  font-family:Times;
+  color:black;
+  font-size:20;
+}
